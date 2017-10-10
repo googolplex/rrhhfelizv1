@@ -2,7 +2,7 @@
 
 # hecho para arch-en limones
 # el 2017/10
-cp -r /home/xoldfusion/Descargas/openxava-5.7.1_rrhhfeliz/workspace/rrhhfelizv1/* rrhhfelizv1
+cp -r /home/xoldfusion/Descargas/openxava-5.7.1_rrhhfeliz/workspace/rrhhfelizv1/* rrhhfelizv1/rrhhfelizv1
 
 cp *.sh rrhhfelizv1/gitfeliz
 rm *.*~
