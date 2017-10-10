@@ -1,5 +1,5 @@
 package biz.lcompras.model;
 
-public class Horarios {
+public class Horarios extends SuperClaseFeliz {
 
 }

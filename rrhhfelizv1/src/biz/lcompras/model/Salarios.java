@@ -1,5 +1,5 @@
 package biz.lcompras.model;
 
-public class Salarios {
+public class Salarios extends SuperClaseFeliz {
 
 }
