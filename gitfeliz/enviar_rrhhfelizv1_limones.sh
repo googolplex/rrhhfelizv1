@@ -9,5 +9,5 @@ rm *.*~
 rm rrhhfelizv1/*.*~
 cd rrhhfelizv1
 git add -A
-git commit -a -m "inicio del proyecto"
+git commit -a -m "elaborando la model"
 git push -u origin master
